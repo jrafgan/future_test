@@ -4,11 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
+      <header className="header">
+        <h3 className="h3">
           Future table
-        </p>
+        </h3>
       </header>
+      <div className="table_row" >
+        <p>Hello</p>
+      </div>
     </div>
   );
 }

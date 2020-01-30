@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.table_row {
+  border: 1px solid black;
+}
